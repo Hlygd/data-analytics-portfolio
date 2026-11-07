@@ -1,0 +1,19 @@
+supplier,month,lots_received,rejected_lots,defective_units,late_lots
+Supplier A,2026-08,33,1,35,1
+Supplier A,2026-09,34,1,18,3
+Supplier A,2026-10,32,0,0,2
+Supplier B,2026-08,44,1,49,2
+Supplier B,2026-09,37,1,57,3
+Supplier B,2026-10,34,1,50,0
+Supplier C,2026-08,36,2,162,2
+Supplier C,2026-09,29,2,148,0
+Supplier C,2026-10,43,3,192,4
+Supplier D,2026-08,44,7,861,1
+Supplier D,2026-09,30,3,381,2
+Supplier D,2026-10,33,3,360,1
+Supplier E,2026-08,44,0,0,8
+Supplier E,2026-09,33,0,0,4
+Supplier E,2026-10,39,2,102,7
+Supplier F,2026-08,45,4,212,1
+Supplier F,2026-09,38,0,0,3
+Supplier F,2026-10,39,7,469,1

@@ -1,0 +1,7 @@
+supplier,lots,ppm,accept_rate,otd,composite,rating
+Supplier A,99,530.0,98.0,94.0,96.0,Preferred
+Supplier B,115,1374.9,97.4,95.8,93.6,Preferred
+Supplier E,116,871.8,98.3,83.9,91.9,Preferred
+Supplier C,108,4689.5,93.5,95.0,81.6,Approved
+Supplier F,122,5578.9,91.1,95.8,78.4,Approved
+Supplier D,107,14392.4,88.3,96.0,53.6,Conditional
