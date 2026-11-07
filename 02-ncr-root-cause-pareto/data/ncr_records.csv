@@ -1,0 +1,121 @@
+ncr_id,date,defect_mode,process_area,supplier,disposition,cost_cad
+NCR-26-001,2026-05-10,Missing operations,Assembly,Supplier D,Rework,189.24
+NCR-26-002,2026-06-24,Packaging damage,Packaging,Supplier A,Sort,36.14
+NCR-26-003,2026-10-26,Surface finish defects,Finishing,Supplier B,Scrap,647.41
+NCR-26-004,2026-07-20,Surface finish defects,Finishing,Supplier C,Sort,150.31
+NCR-26-005,2026-10-02,Missing operations,Assembly,Supplier E,Scrap,488.28
+NCR-26-006,2026-08-19,Dimensional out-of-spec,Machining,Supplier A,Rework,105.39
+NCR-26-007,2026-07-08,Packaging damage,Packaging,Supplier C,Rework,32.01
+NCR-26-008,2026-06-14,Dimensional out-of-spec,Machining,Supplier A,Rework,1089.25
+NCR-26-009,2026-08-05,Weld porosity,Welding,Supplier A,Sort,251.21
+NCR-26-010,2026-06-18,Packaging damage,Packaging,Supplier B,Sort,46.37
+NCR-26-011,2026-08-19,Wrong material,Stamping,Supplier A,Rework,506.98
+NCR-26-012,2026-10-04,Weld porosity,Welding,Supplier C,Scrap,1133.53
+NCR-26-013,2026-08-12,Weld porosity,Welding,Supplier A,Sort,321.02
+NCR-26-014,2026-10-24,Missing operations,Assembly,Supplier C,Rework,240.94
+NCR-26-015,2026-09-26,Dimensional out-of-spec,Machining,Supplier B,Scrap,1351.9
+NCR-26-016,2026-05-18,Labeling errors,Packaging,Supplier A,Rework,83.79
+NCR-26-017,2026-07-26,Packaging damage,Packaging,Supplier C,Scrap,225.42
+NCR-26-018,2026-10-18,Packaging damage,Packaging,Supplier C,Scrap,241.41
+NCR-26-019,2026-10-22,Packaging damage,Packaging,Supplier C,Scrap,142.75
+NCR-26-020,2026-08-24,Missing operations,Assembly,Supplier B,Rework,438.1
+NCR-26-021,2026-07-25,Dimensional out-of-spec,Machining,Supplier D,Rework,704.04
+NCR-26-022,2026-06-27,Wrong material,Stamping,Supplier A,Rework,550.74
+NCR-26-023,2026-05-15,Dimensional out-of-spec,Machining,Supplier E,Rework,550.02
+NCR-26-024,2026-08-03,Packaging damage,Packaging,Supplier B,Rework,89.28
+NCR-26-025,2026-10-27,Weld porosity,Welding,Supplier B,Rework,778.86
+NCR-26-026,2026-05-28,Packaging damage,Packaging,Supplier A,Rework,47.7
+NCR-26-027,2026-10-03,Dimensional out-of-spec,Machining,Supplier B,Sort,463.91
+NCR-26-028,2026-08-22,Burrs / sharp edges,Machining,Supplier B,Rework,59.5
+NCR-26-029,2026-06-25,Dimensional out-of-spec,Machining,Supplier B,Scrap,576.95
+NCR-26-030,2026-10-18,Missing operations,Assembly,Supplier B,Scrap,201.9
+NCR-26-031,2026-10-09,Surface finish defects,Finishing,Supplier E,Rework,301.83
+NCR-26-032,2026-10-09,Wrong material,Stamping,Supplier C,Rework,474.15
+NCR-26-033,2026-05-30,Surface finish defects,Finishing,Supplier E,Scrap,946.84
+NCR-26-034,2026-08-02,Labeling errors,Packaging,Supplier A,Sort,31.1
+NCR-26-035,2026-08-20,Wrong material,Stamping,Supplier C,Sort,224.6
+NCR-26-036,2026-07-11,Dimensional out-of-spec,Machining,Supplier A,Scrap,1114.38
+NCR-26-037,2026-06-01,Burrs / sharp edges,Machining,Supplier A,Rework,185.16
+NCR-26-038,2026-08-16,Missing operations,Assembly,Supplier B,Sort,210.51
+NCR-26-039,2026-08-30,Missing operations,Assembly,Supplier C,Scrap,640.05
+NCR-26-040,2026-07-14,Wrong material,Stamping,Supplier D,Rework,741.09
+NCR-26-041,2026-09-24,Packaging damage,Packaging,Supplier D,Sort,37.06
+NCR-26-042,2026-10-12,Dimensional out-of-spec,Machining,Supplier A,Scrap,1461.11
+NCR-26-043,2026-06-25,Weld porosity,Welding,Supplier A,Rework,465.52
+NCR-26-044,2026-08-15,Dimensional out-of-spec,Machining,Supplier C,Scrap,1720.94
+NCR-26-045,2026-06-08,Packaging damage,Packaging,Supplier B,Sort,36.8
+NCR-26-046,2026-08-18,Dimensional out-of-spec,Machining,Supplier C,Scrap,1886.81
+NCR-26-047,2026-09-29,Labeling errors,Packaging,Supplier D,Scrap,40.0
+NCR-26-048,2026-06-27,Dimensional out-of-spec,Machining,Supplier C,Rework,345.46
+NCR-26-049,2026-09-13,Burrs / sharp edges,Machining,Supplier D,Scrap,187.88
+NCR-26-050,2026-10-06,Dimensional out-of-spec,Machining,Supplier C,Rework,530.28
+NCR-26-051,2026-09-01,Dimensional out-of-spec,Machining,Supplier C,Rework,909.3
+NCR-26-052,2026-09-22,Weld porosity,Welding,Supplier C,Sort,356.38
+NCR-26-053,2026-05-30,Dimensional out-of-spec,Machining,Supplier A,Rework,1354.42
+NCR-26-054,2026-08-10,Packaging damage,Packaging,Supplier B,Scrap,63.01
+NCR-26-055,2026-06-04,Missing operations,Assembly,Supplier A,Rework,306.81
+NCR-26-056,2026-08-28,Burrs / sharp edges,Machining,Supplier B,Rework,81.24
+NCR-26-057,2026-08-16,Dimensional out-of-spec,Machining,Supplier A,Scrap,1184.94
+NCR-26-058,2026-05-15,Wrong material,Stamping,Supplier C,Scrap,1275.71
+NCR-26-059,2026-08-24,Wrong material,Stamping,Supplier A,Scrap,893.44
+NCR-26-060,2026-05-15,Packaging damage,Packaging,Supplier A,Scrap,180.67
+NCR-26-061,2026-10-04,Missing operations,Assembly,Supplier A,Rework,280.35
+NCR-26-062,2026-07-07,Wrong material,Stamping,Supplier A,Rework,394.76
+NCR-26-063,2026-06-11,Burrs / sharp edges,Machining,Supplier C,Rework,127.89
+NCR-26-064,2026-08-02,Wrong material,Stamping,Supplier A,Scrap,817.61
+NCR-26-065,2026-05-10,Wrong material,Stamping,Supplier D,Scrap,1415.14
+NCR-26-066,2026-09-21,Missing operations,Assembly,Supplier C,Sort,225.65
+NCR-26-067,2026-06-05,Burrs / sharp edges,Machining,Supplier D,Rework,126.17
+NCR-26-068,2026-06-03,Wrong material,Stamping,Supplier D,Rework,590.97
+NCR-26-069,2026-07-17,Weld porosity,Welding,Supplier B,Scrap,1821.22
+NCR-26-070,2026-08-06,Weld porosity,Welding,Supplier B,Rework,588.45
+NCR-26-071,2026-05-06,Burrs / sharp edges,Machining,Supplier E,Rework,104.56
+NCR-26-072,2026-09-14,Labeling errors,Packaging,Supplier A,Rework,90.33
+NCR-26-073,2026-05-20,Packaging damage,Packaging,Supplier A,Scrap,241.47
+NCR-26-074,2026-05-22,Dimensional out-of-spec,Machining,Supplier C,Rework,796.94
+NCR-26-075,2026-05-27,Dimensional out-of-spec,Machining,Supplier E,Scrap,1320.94
+NCR-26-076,2026-05-13,Surface finish defects,Finishing,Supplier A,Scrap,332.2
+NCR-26-077,2026-06-22,Wrong material,Stamping,Supplier B,Scrap,1413.53
+NCR-26-078,2026-10-07,Packaging damage,Packaging,Supplier A,Rework,62.93
+NCR-26-079,2026-05-31,Dimensional out-of-spec,Machining,Supplier A,Rework,1204.26
+NCR-26-080,2026-06-01,Burrs / sharp edges,Machining,Supplier B,Scrap,236.3
+NCR-26-081,2026-09-04,Weld porosity,Welding,Supplier B,Scrap,965.55
+NCR-26-082,2026-08-22,Surface finish defects,Finishing,Supplier B,Rework,608.54
+NCR-26-083,2026-10-21,Dimensional out-of-spec,Machining,Supplier A,Scrap,1643.98
+NCR-26-084,2026-10-17,Weld porosity,Welding,Supplier E,Scrap,1032.53
+NCR-26-085,2026-06-30,Surface finish defects,Finishing,Supplier E,Scrap,785.58
+NCR-26-086,2026-08-16,Dimensional out-of-spec,Machining,Supplier A,Rework,782.07
+NCR-26-087,2026-06-23,Wrong material,Stamping,Supplier D,Rework,262.45
+NCR-26-088,2026-09-30,Wrong material,Stamping,Supplier C,Scrap,1060.08
+NCR-26-089,2026-10-22,Wrong material,Stamping,Supplier A,Sort,127.53
+NCR-26-090,2026-06-29,Packaging damage,Packaging,Supplier A,Rework,115.56
+NCR-26-091,2026-08-14,Labeling errors,Packaging,Supplier C,Sort,41.88
+NCR-26-092,2026-09-22,Wrong material,Stamping,Supplier C,Sort,166.27
+NCR-26-093,2026-07-21,Surface finish defects,Finishing,Supplier C,Sort,291.12
+NCR-26-094,2026-08-29,Dimensional out-of-spec,Machining,Supplier C,Rework,487.72
+NCR-26-095,2026-07-25,Wrong material,Stamping,Supplier A,Sort,196.03
+NCR-26-096,2026-07-13,Wrong material,Stamping,Supplier B,Rework,243.04
+NCR-26-097,2026-10-12,Missing operations,Assembly,Supplier C,Sort,128.89
+NCR-26-098,2026-07-21,Missing operations,Assembly,Supplier C,Scrap,472.99
+NCR-26-099,2026-09-11,Weld porosity,Welding,Supplier A,Sort,449.19
+NCR-26-100,2026-07-21,Wrong material,Stamping,Supplier C,Rework,648.29
+NCR-26-101,2026-08-26,Surface finish defects,Finishing,Supplier C,Sort,216.15
+NCR-26-102,2026-08-24,Surface finish defects,Finishing,Supplier C,Rework,427.26
+NCR-26-103,2026-05-12,Weld porosity,Welding,Supplier B,Rework,617.86
+NCR-26-104,2026-06-30,Burrs / sharp edges,Machining,Supplier B,Sort,80.59
+NCR-26-105,2026-10-02,Surface finish defects,Finishing,Supplier C,Scrap,641.95
+NCR-26-106,2026-10-02,Missing operations,Assembly,Supplier C,Rework,160.33
+NCR-26-107,2026-08-23,Missing operations,Assembly,Supplier B,Scrap,668.33
+NCR-26-108,2026-06-22,Surface finish defects,Finishing,Supplier E,Rework,167.66
+NCR-26-109,2026-10-01,Weld porosity,Welding,Supplier C,Sort,362.93
+NCR-26-110,2026-07-07,Weld porosity,Welding,Supplier D,Rework,347.87
+NCR-26-111,2026-05-14,Dimensional out-of-spec,Machining,Supplier D,Scrap,944.02
+NCR-26-112,2026-06-05,Surface finish defects,Finishing,Supplier D,Sort,77.55
+NCR-26-113,2026-06-24,Wrong material,Stamping,Supplier B,Rework,585.38
+NCR-26-114,2026-06-06,Weld porosity,Welding,Supplier C,Rework,232.2
+NCR-26-115,2026-05-26,Wrong material,Stamping,Supplier D,Rework,406.68
+NCR-26-116,2026-08-31,Weld porosity,Welding,Supplier C,Rework,584.2
+NCR-26-117,2026-05-30,Weld porosity,Welding,Supplier B,Rework,595.43
+NCR-26-118,2026-06-06,Labeling errors,Packaging,Supplier A,Scrap,116.75
+NCR-26-119,2026-09-23,Dimensional out-of-spec,Machining,Supplier B,Rework,510.59
+NCR-26-120,2026-06-05,Dimensional out-of-spec,Machining,Supplier B,Rework,597.51

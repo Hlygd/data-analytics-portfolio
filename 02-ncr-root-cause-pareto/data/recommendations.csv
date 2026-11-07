@@ -1,0 +1,5 @@
+priority,focus,finding,recommended_action
+1,Dimensional out-of-spec (Machining),"$23,637 — largest cost driver; concentrated with Supplier A ($9,940)",Process-capability study on Supplier A; tighten incoming inspection sampling on critical dimensions
+2,Wrong material (Stamping),"$12,994 — second-largest; mostly dispositioned as scrap",Root-cause blitz on the top process area; trial enhanced inspection on high-risk features for 30 days
+3,Scrap-heavy disposition mix,"Scrap = $32,536 of $60,974 total COPQ (53%)",MRB review of scrap criteria — shift borderline cases to rework/sort with documented disposition limits
+4,Supplier concentration,"Supplier C accounts for $17,603 (29%) of COPQ",Supplier development visit + corrective-action request; put on enhanced incoming inspection until 2 clean months
